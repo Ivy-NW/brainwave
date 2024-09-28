@@ -1,4 +1,4 @@
-# Modern Websites with Parallax Effects & Bento Box Layouts
+# Brainwave with Parallax Effects & Bento Box Layouts
 
 ## Overview
 Learn how to create sleek, modern websites featuring stylish UI design, parallax scrolling effects, and innovative Bento box layouts. This course takes you from design principles to implementation, using **React.js** and **Tailwind CSS** to build responsive, mobile-first websites. Strengthen your frontend development skills and deliver visually stunning web applications.
@@ -14,11 +14,6 @@ Learn how to create sleek, modern websites featuring stylish UI design, parallax
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
 4. [Installation](#installation)
-5. [Getting Started](#getting-started)
-6. [Folder Structure](#folder-structure)
-7. [Screenshots](#screenshots)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Project Setup
 This project uses **React.js** for building the user interface and **Tailwind CSS** for styling. It also includes additional dependencies for smooth parallax scrolling and responsive design.
